@@ -4,30 +4,30 @@
 <table>
 <tr>
 <td>
-[🏠 Administration](/Administration.md)
-
-[💻 What makes a PC](/WhatMakesAPC.md)
-
-[🐍 Python](/Python.md)
-
-[📄 Overleaf&Zotero](/OverleafZotero.md)
-
-[💬 Language Modelling](/LanguageModeling.md)
+<a href="/Administration.md">🏠 Administration</a>
+</br>
+<a href="/WhatMakesAPC.md">💻 What makes a PC</a>
+</br>
+<a href="/Python.md">🐍 Python</a>
+</br>
+<a href="/OverleafZotero.md">📄 Overleaf&Zotero</a>
+</br>
+<a href="/LanguageModeling.md">💬 Language Modeling</a>
+</br>
+<a href="/NeuralNetworks.md">🕸 Neural Networks</a>
 </td>
 <td>
-[🕸 Neural Networks](/NeuralNetworks.md)
-
-[⌨ Keyboard Shortcuts](/KeyboardShortcuts.md)
-
-[🔃 Version Control System](/VCS.md)
-
-[🤖 Bash](/Bash.md)
-
+<a href="/KeyboardShortcuts.md">⌨ Keyboard Shortcuts</a>
+</br>
+<a href="/VCS.md">🔃 Version Control System</a>
+</br>
+<a href="/Bash.md">🤖 Bash</a>
+</br>
 🔑 Password Management 🔑
-
-[Knowledge modeling🕸️](/KnowledgeModeling.md)
-
-📄[Papers to read](/PapersToRead.md)
+</br>
+<a href="/KnowledgeModeling.md">Knowledge modeling🕸️</a>
+</br>
+<a href="/PapersToRead.md">📄Papers to read</a>
 </td>
 </tr>
 </table>
