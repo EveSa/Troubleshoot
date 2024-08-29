@@ -4,30 +4,30 @@
 <table>
 <tr>
 <td>
-<a href="./Administration.md">🏠 Administration</a>
+<a href="./Administration.html">🏠 Administration</a>
 <br>
-<a href="./WhatMakesAPC.md">💻 What makes a PC</a>
+<a href="./WhatMakesAPC.html">💻 What makes a PC</a>
 <br>
-<a href="./Python.md">🐍 Python</a>
+<a href="./Python.html">🐍 Python</a>
 <br>
-<a href="./OverleafZotero.md">📄 Overleaf&Zotero</a>
+<a href="./OverleafZotero.html">📄 Overleaf&Zotero</a>
 <br>
-<a href="./LanguageModeling.md">💬 Language Modeling</a>
+<a href="./LanguageModeling.html">💬 Language Modeling</a>
 <br>
-<a href="./NeuralNetworks.md">🕸 Neural Networks</a>
+<a href="./NeuralNetworks.html">🕸 Neural Networks</a>
 </td>
 <td>
-<a href="./KeyboardShortcuts.md">⌨ Keyboard Shortcuts</a>
+<a href="./KeyboardShortcuts.html">⌨ Keyboard Shortcuts</a>
 <br>
-<a href="./VCS.md">🔃 Version Control System</a>
+<a href="./VCS.html">🔃 Version Control System</a>
 <br>
-<a href="./Bash.md">🤖 Bash</a>
+<a href="./Bash.html">🤖 Bash</a>
 <br>
 🔑 Password Management 🔑
 <br>
-<a href="./KnowledgeModeling.md">Knowledge modeling🕸️</a>
+<a href="./KnowledgeModeling.html">Knowledge modeling🕸️</a>
 <br>
-<a href="./PapersToRead.md">📄Papers to read</a>
+<a href="./PapersToRead.html">📄Papers to read</a>
 </td>
 </tr>
 </table>
