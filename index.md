@@ -5,28 +5,28 @@
 <tr>
 <td>
 <a href="/Administration.md">🏠 Administration</a>
-</br>
+<br>
 <a href="/WhatMakesAPC.md">💻 What makes a PC</a>
-</br>
+<br>
 <a href="/Python.md">🐍 Python</a>
-</br>
+<br>
 <a href="/OverleafZotero.md">📄 Overleaf&Zotero</a>
-</br>
+<br>
 <a href="/LanguageModeling.md">💬 Language Modeling</a>
-</br>
+<br>
 <a href="/NeuralNetworks.md">🕸 Neural Networks</a>
 </td>
 <td>
 <a href="/KeyboardShortcuts.md">⌨ Keyboard Shortcuts</a>
-</br>
+<br>
 <a href="/VCS.md">🔃 Version Control System</a>
-</br>
+<br>
 <a href="/Bash.md">🤖 Bash</a>
-</br>
+<br>
 🔑 Password Management 🔑
-</br>
+<br>
 <a href="/KnowledgeModeling.md">Knowledge modeling🕸️</a>
-</br>
+<br>
 <a href="/PapersToRead.md">📄Papers to read</a>
 </td>
 </tr>
