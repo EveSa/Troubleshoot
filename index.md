@@ -29,6 +29,9 @@
 
 📄[Papers to read](/PapersToRead.md)
 </td>
+</tr>
+</table>
+
 # Vocab
 
 *vanilla  :* basic/plain (because of Vanilla Ice Cream which used to be plain)
