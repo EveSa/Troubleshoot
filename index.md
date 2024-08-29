@@ -1,56 +1,60 @@
-# 👩 Qui suis-je 👩 
+⭐⭐⭐ What is Important ⭐⭐⭐
 
-- Eve Sauvage
-- ancienne étudiante du master TAL
-- doctorante au LISN à l'université Paris-Saclay
-- mon sujet : `le traitement des séquences longues avec les modèles d'apprentissage profond`
+[Administration](/Administration.md)
 
-**Me joindre :** 
+[What makes a PC](/WhatMakesAPC.md)
 
-- 📫  eve.sauvage at lisn dot fr *avec "outils de traitement de corpus" dans l'objet svp*
-- 🌐  <https://EveSa.github.io/OutilsTraitementCorpus>
+[Python](/Python.md)
 
-#  🎓 Présenter le cours 🎓
+[Overleaf&Zotero](/OverleafZotero.md)
 
-**Comment ça va ce passer :** 
+[Language Modelling](/LanguageModeling.md)
 
-- 6 séances 
-- du 18 mars au 13 mai
-- de 15h30 à 18h30
-- En amphi 3
-- partagé en 3 parties : 
-  - Une partie cours magistral
-    \&rarr; n'hésitez pas à poser des questions
-  - Une partie retours 
-    - sur le cours
-    - préparation du cours d'après (qu'est ce que vous voulez voir la prochaine fois, de quoi vous voudriez entendre parler)
-    - un petit point bonnes pratiques
-  - Une partie pratique
+[Neural Networks](/NeuralNetworks.md)
 
-**Évaluation :** 
+[Keyboard Shortcuts](/KeyboardShortcuts.md)
 
-On fait un projet de constitution/exploitation de corpus en faisant
+[Version Control System](/VCS.md)
 
-Un devoir à rendre après chaque séance, sauf la dernière, sur Github.
-6 séances, 5 devoirs, 5 notes. La note finale sera la moyenne des notes.
+[Bash](/Bash.md)
 
-Tous vos devoirs devront m’être parvenus avant le 17 mai
+🔑 Password Management 🔑
 
-# Index des cours
+[Knowledge modeling🕸️](/KnowledgeModeling.md)
 
-- [Cours 1](/slides/cours1.html)
-- Cours 2
-  - [slides](/slides/cours2.html)
-  - [notebook](/notebooks/web_scrap.ipynb)
-- Cours 3
-  - [slides](/slides/cours3.html)
-  - [notebook](/notebooks/web_scrap.ipynb)
-- Cours 4
-  - [slides](/slides/cours4.html)
-  - [notebook](/notebooks/visualise_data.ipynb)
-  - [Dockerfile](/src/dockerssh.zip)
-- Cours 5
-  - [slides](/slides/cours5.html)
-  - [notebook](/notebooks/significativity_test.ipynb)
-- Cours 6
-  - [slides](/slides/cours6.html)
+📄[Papers to read](/PapersToRead.md)
+
+# Vocab
+
+*vanilla  :* basic/plain (because of Vanilla Ice Cream which used to be plain)
+
+"pulling yourself up by your bootstraps” = getting yourself started from a dead stop
+
+*oracle :* a system which is always right
+
+### Question
+
+What is a [data lake](https://en.wikipedia.org/wiki/Data_lake) ?
+
+# Problème de version (pour VScode)
+
+→ retrograder ça fonctionne (solution temporaire avant le patch de la version)
+
+## Ref utiles
+
+https://markummitchell.github.io/engauge-digitizer/
+
+## Se tenir au courant
+
+- sur reddit r/Locallama
+- sur google Scholar avec recherche de mots clés
+- Avec des Newsletters AI
+    - The Batch
+    - [dair.ai](https://nlp.elvissaravia.com/)
+- [Connected papers](https://www.connectedpapers.com/)
+
+## Trouver des datasets
+
+- https://datasetsearch.research.google.com/
+
+[Papers to Read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21)
