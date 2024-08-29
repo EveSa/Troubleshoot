@@ -1,29 +1,34 @@
 ⭐⭐⭐ What is Important ⭐⭐⭐
 
-[Administration](/Administration.md)
 
-[What makes a PC](/WhatMakesAPC.md)
+<table>
+<tr>
+<td>
+[🏠 Administration](/Administration.md)
 
-[Python](/Python.md)
+[💻 What makes a PC](/WhatMakesAPC.md)
 
-[Overleaf&Zotero](/OverleafZotero.md)
+[🐍 Python](/Python.md)
 
-[Language Modelling](/LanguageModeling.md)
+[📄 Overleaf&Zotero](/OverleafZotero.md)
 
-[Neural Networks](/NeuralNetworks.md)
+[💬 Language Modelling](/LanguageModeling.md)
+</td>
+<td>
+[🕸 Neural Networks](/NeuralNetworks.md)
 
-[Keyboard Shortcuts](/KeyboardShortcuts.md)
+[⌨ Keyboard Shortcuts](/KeyboardShortcuts.md)
 
-[Version Control System](/VCS.md)
+[🔃 Version Control System](/VCS.md)
 
-[Bash](/Bash.md)
+[🤖 Bash](/Bash.md)
 
 🔑 Password Management 🔑
 
 [Knowledge modeling🕸️](/KnowledgeModeling.md)
 
 📄[Papers to read](/PapersToRead.md)
-
+</td>
 # Vocab
 
 *vanilla  :* basic/plain (because of Vanilla Ice Cream which used to be plain)
