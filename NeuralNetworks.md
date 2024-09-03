@@ -90,3 +90,25 @@ Une métrique pour les modèles de langues autorégressifs https://huggingface.c
 # LLMs
 
 RLHF : Reinforcement Learning with Human Feedback
+
+# Adaptation de modèles
+
+## Fine-tuning
+
+## RLHF: Reinforcement Learning From Human Feedback
+
+## ICL: In Context Learning
+
+## MAML: [Model Agnostic Meta Learning](https://interactive-maml.github.io/maml.html)
+
+MAML propose une solution pour l'entraînement de modèle avec des très petit jeux de données. L'objectif est d'obtenir une représentation - des poids de modèles - qui soient le plus proche possible d'un grand nombre de tâches afin que leur adaptation ne requière qu'un "petit" *fine-tuning*.
+
+L'objectif n'est pas d'entraîner un modèle sur une tâche mais d'**entraîner un modèle à apprendre**.
+
+> ❓ Est ce que l'objectif serait un modèle avec les plus petits vecteurs de tâches ❓
+
+
+
+Model agnostic : la méthode est adaptable pour tous modèles utilisant une descente de gradiant.
+
+Meta Learning : Apprendre au modèle à apprendre (sur des petits jeu de données et sans *over-fitter*)
