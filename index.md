@@ -15,6 +15,8 @@
 <a href="./LanguageModeling.html">💬 Language Modeling</a>
 <br>
 <a href="./NeuralNetworks.html">🕸 Neural Networks</a>
+<br>
+<a href="./HPC.html">💾 HPC & Slurm</a>
 </td>
 <td>
 <a href="./KeyboardShortcuts.html">⌨ Keyboard Shortcuts</a>
@@ -25,7 +27,7 @@
 <br>
 🔑 Password Management 🔑
 <br>
-<a href="./KnowledgeModeling.html">Knowledge modeling🕸️</a>
+<a href="./KnowledgeModeling.html">🧠 Knowledge modeling</a>
 <br>
 <a href="./PapersToRead.html">📄Papers to read</a>
 </td>
