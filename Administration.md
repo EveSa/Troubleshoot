@@ -1,3 +1,10 @@
+---
+title: Administration
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+author: esa
+toc: true
+---
+
 # Les Bases
 
 Selon (« [The Linux System Administrator’s Guide](https://tldp.org/LDP/sag/html) » s. d.)
