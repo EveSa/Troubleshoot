@@ -1,7 +1,6 @@
 ---
 title: Administration
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-author: esa
 toc: true
 ---
 

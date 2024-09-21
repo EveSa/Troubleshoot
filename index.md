@@ -1,3 +1,8 @@
+---
+title: Administration
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+---
+
 ⭐⭐⭐ What is Important ⭐⭐⭐
 
 
