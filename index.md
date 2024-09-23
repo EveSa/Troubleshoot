@@ -2,7 +2,7 @@
 layout: home
 # Index page
 ---
-<!-- ⭐⭐⭐ What is Important ⭐⭐⭐
+⭐⭐⭐ What is Important ⭐⭐⭐
 
 
 <table>
@@ -71,4 +71,4 @@ https://markummitchell.github.io/engauge-digitizer/
 
 - https://datasetsearch.research.google.com/
 
-[Papers to Read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21) -->
+[Papers to Read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21)
