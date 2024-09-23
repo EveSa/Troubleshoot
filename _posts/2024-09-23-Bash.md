@@ -1,0 +1,28 @@
+## ⚠️ Ne pas utiliser `PATH` comme variable de script ⚠️
+
+(Elle est déjà utilisée pour renvoyer vers les dossiers de travail e.g.
+
+```bash
+echo $PATH
+/opt/minio:/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/bin/remote-cli:/opt/minio:/opt/conda/envs/DiT_env/bin:/opt/conda/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+```
+
+## ⚠️ Les espaces sont très sensibles ⚠️
+
+```bash
+if [[ "$category" = *"personnalité"* ]]; then
+```
+
+différent de
+
+```bash
+if [[ "$category"=*"personnalité"* ]]; then
+```
+
+différent de
+
+```bash
+if [["$category"=*"personnalité"*]]; then
+```
+
+utiliser les [[ quand les deux parties ne sont pas des variables ?
