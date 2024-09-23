@@ -1,6 +1,6 @@
 ---
 title: Troubleshoot
-toc: true
+layout: home
 ---
 ⭐⭐⭐ What is Important ⭐⭐⭐
 
