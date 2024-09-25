@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Administration"
-categories: CATEGORY-1 CATEGORY-2
 ---
 # Les Bases
 
