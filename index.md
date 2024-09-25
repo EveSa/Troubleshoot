@@ -1,14 +1,10 @@
----
-layout: home
-# Index page
----
 ⭐⭐⭐ What is Important ⭐⭐⭐
 
 
 <table>
 <tr>
 <td>
-<a href="./Administration.html">🏠 Administration</a>
+<a href="./_posts/2024-09-23-Administration.html">🏠 Administration</a>
 <br>
 <a href="./WhatMakesAPC.html">💻 What makes a PC</a>
 <br>
