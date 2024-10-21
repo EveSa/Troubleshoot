@@ -1,6 +1,9 @@
 ---
-layout: post
+title: "Language modeling"
 ---
+1. TOC
+{:toc}
+
 # NLTK
 
 → Plein de parser sur nltk

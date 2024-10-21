@@ -1,6 +1,9 @@
 ---
-layout: post
+title: "Keyboard shortcut"
 ---
+1. TOC
+{:toc}
+
 # Terminal Shortcuts
 
 `Ctrl + z` Suspend terminal activity

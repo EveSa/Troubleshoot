@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "Administration"
 ---
+
+1. TOC
+{:toc}
+
 # Les Bases
 
 Selon (« [The Linux System Administrator’s Guide](https://tldp.org/LDP/sag/html) » s. d.)

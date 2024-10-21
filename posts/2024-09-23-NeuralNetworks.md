@@ -1,6 +1,9 @@
 ---
-layout: post
+title: "Neural Networks"
 ---
+1. TOC
+{:toc}
+
 # The History of Neural Networks
 
 c.f. La revanche des neurones
