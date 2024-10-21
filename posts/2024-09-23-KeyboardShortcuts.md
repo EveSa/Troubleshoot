@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Keyboard shortcut"
 ---
 1. TOC

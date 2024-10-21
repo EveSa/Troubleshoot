@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Overleaf and Zotero"
 ---
 1. TOC

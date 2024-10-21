@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Neural Networks"
 ---
 1. TOC

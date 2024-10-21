@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Language modeling"
 ---
 1. TOC
