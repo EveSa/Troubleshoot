@@ -2,7 +2,66 @@
 title: Home
 layout: home
 ---
+⭐⭐⭐ What is Important ⭐⭐⭐
 
+[Administration](./_posts/2024-09-23-Administration.md)
+
+[What makes a PC](./_posts/2024-09-23-WhatMakesAPC.md)
+
+[Python](./_posts/2024-09-23-Python.md)
+
+[Overleaf&Zotero](./_posts/2024-09-23-OverleafZotero.md)
+
+[Language Modelling](./_posts/2024-09-23-LanguageModeling.md)
+
+[Neural Networks](./_posts/2024-09-23-NeuralNetworks.md)
+
+[Keyboard Shortcuts](https://www.notion.so/Keyboard-Shortcuts-0f597b6fe46045e38e73d77ac6a68819?pvs=21)
+
+[Version Control System](https://www.notion.so/Version-Control-System-5dd2c60c786d4e158bb660cffafababd?pvs=21)
+
+[Bash](https://www.notion.so/Bash-6b73182edff14a4f80260ba78a3b4c7c?pvs=21)
+
+🔑 Password Management 🔑
+
+[Knowledge modelling🕸️](https://www.notion.so/Knowledge-modelling-266730e4f14e4bd4b1ba55646bbd36be?pvs=21)
+
+📄[Papers to read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21)
+
+# Vocab
+
+*vanilla  :* basic/plain (because of Vanilla Ice Cream which used to be plain)
+
+"pulling yourself up by your bootstraps” = getting yourself started from a dead stop
+
+*oracle :* a system which is always right
+
+### Question
+
+What is a [data lake](https://en.wikipedia.org/wiki/Data_lake) ?
+
+# Problème de version (pour VScode)
+
+→ retrograder ça fonctionne (solution temporaire avant le patch de la version)
+
+## Ref utiles
+
+https://markummitchell.github.io/engauge-digitizer/
+
+## Se tenir au courant
+
+- sur reddit r/Locallama
+- sur google Scholar avec recherche de mots clés
+- Avec des Newsletters AI
+    - The Batch
+    - [dair.ai](https://nlp.elvissaravia.com/)
+- [Connected papers](https://www.connectedpapers.com/)
+
+## Trouver des datasets
+
+- https://datasetsearch.research.google.com/
+
+[Papers to Read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21)
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
