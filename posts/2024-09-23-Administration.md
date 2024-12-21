@@ -48,6 +48,14 @@ Les programmes utilisent le kernel pour tourner en mode utilisateur
 
 Une **distribution : a kernel + une OS**
 
+### Comment connaître sa distribution ?
+
+``̀
+lsb_release -a
+```
+
+LSB=Linux Standard Base
+
 ## Organiser ses Appartements
 
 On ne mange pas dans sa salle de bain : on observe les mêmes règles dans un PC
