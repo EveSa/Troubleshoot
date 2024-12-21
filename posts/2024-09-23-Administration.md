@@ -50,11 +50,27 @@ Une **distribution : a kernel + une OS**
 
 ### Comment connaître sa distribution ?
 
+Pleins de commandes permettent de connaître sa distribution (et donc son kernel et son OS)
+
 ``̀
 lsb_release -a
 ```
 
 LSB=Linux Standard Base
+
+Pour les systèmes unix:
+
+```
+uname
+̀``̀ 
+
+Les options : 
+- `-s` (kernel-name) : sur ma machine `Linux`
+- `-r` (kernel-release) : sur ma machine `6.7.5-57-generic`
+- `-o` (operating-system) : sur ma machine `GNU/Linux`
+- `-v` (kernel-version) : sur ma machine `22.04 Ubuntu`
+
+On voit ici qu'il est fait une distinction entre le *kernel* et l'*operating system*.
 
 ## Organiser ses Appartements
 
