@@ -247,6 +247,9 @@ conda create --name ENV_NAME -y python=VERSION
 conda activate ENV_NAME
 ```
 
+{: .important }
+> Le process pour créer un environnement virtuel avec `mamba`est le même qu'avec `conda`
+
 Il faut parfois initialiser conda avec la commande `conda init SHELL_NAME` pour faire fonctionner l’environnement
 
 ### Docker
