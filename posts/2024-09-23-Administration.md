@@ -260,6 +260,19 @@ pip⚡conda
 
 ⚠️ Certains paquets ne sont compatibles qu’avec certaines version de python ⚠️
 
+## Nettoyer ses appartements
+
+Déterminer ce qui prend le plus de place :
+```
+du -ah --max-depth=1 DIRECTORY_PATH | head -n 10
+```
+(ça peut prendre beaucoup de temps)
+
+voir ce qu'on est prêt à supprimer
+
+on peut ensuite entamer des `rm` sur les parties non critiques en faisant toujours très très très attention.
+
+
 ## Lancer des commandes en parallèle
 
 ```bash
