@@ -29,6 +29,7 @@ nav_order: 1
 
 📄[Papers to read](https://www.notion.so/Papers-to-Read-e6ccbbda225c44fdb7d613be8ec5c50d?pvs=21)
 
+[Write Papers](./_posts/2025-07-10-HowToWritePapers.md)
 # Vocab
 
 *vanilla  :* basic/plain (because of Vanilla Ice Cream which used to be plain)
